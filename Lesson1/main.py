@@ -1,3 +1,5 @@
 print("this is my first lesson")
 print("my name is aarav")
 print("my school name is saint paul")
+print("i live in dubai")
+print("i like to play football")
